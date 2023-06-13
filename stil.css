@@ -1,0 +1,46 @@
+/*CSS Document */
+p {
+	color: blue;
+	font-family: Times New Roman, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: beige;
+	padding: 20px; 
+}
+.paragraf_2 {color: blue; background-color: rgba(244, 194, 194, 0.9)}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 30px;
+	margin: 20px; 
+	width:50%;
+}
+h1 {
+	color: blue;
+	font-family: "KatarinaCapan"; src: url (ostalo/KatarinaCapan_novo.tff);
+	font-size: 70px
+}
+h2, h3 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:yellow;
+}
+span {color: rgb(255, 0, 255);}
+.pozadina{
+	background-image: url(slikeprojektni/drvenapozadina.jpg)
+}
+.drugapozadina {
+	background-image: url(slikeprojektni/rozapozadina.jpg)
+}
+a {
+	color: green;
+	background-color: white;
+	padding: 2px;
+	line-height: 30px;
+	border:2px solid #000000;
+}
+a:hover {
+	background-color: yellow;
+}
+img {
+	height: 200px;
+}
